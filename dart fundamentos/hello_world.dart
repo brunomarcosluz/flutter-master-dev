@@ -1,5 +1,6 @@
 // O famoso Hello World! :)
 
-main () {
+main() {
   print('Hello World');
+  print('Olá Mundo!');
 }
