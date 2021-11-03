@@ -1,6 +1,6 @@
 // como declarar variáveis em Dart
 
-/* Dart é uma linageuem fortemente tipada assim como C/C++/Java, é uma linguagem robusta 
+/* Dart é uma linguagem fortemente tipada assim como C/C++/Java, é uma linguagem robusta 
 e com muito divertida de aprender e programar
 
 podemos declarar o tipo da variável ou deixar que o dart infira
