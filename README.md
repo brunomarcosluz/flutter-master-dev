@@ -1,4 +1,4 @@
-# <img alt="Flutter Logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrmxLgAMdxsAOoccRg0kw5zj4pqMy6Arywrw&usqp=CAU" height="30px" lenght="30px"/> Flutter Master Dev
+# Flutter Master Dev <img alt="Flutter Logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrmxLgAMdxsAOoccRg0kw5zj4pqMy6Arywrw&usqp=CAU" height="30px" lenght="30px"/>
 
 My journey to master all four elements of Flutter and become a Flutter Avatar.
 
