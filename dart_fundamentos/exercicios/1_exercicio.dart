@@ -2,3 +2,15 @@
 A seguir (utilizando apenas atribuições entre variáveis) troque os seus conteúdos fazendo com que o
 valor que está em A passe para B e vice-versa. Ao final, escrever os valores que ficaram armazenados
 nas variáveis. */
+
+void main(){
+  int A = 10;
+  int B = 20;
+  
+  int aux = A;
+  A = B;
+  B = aux;
+
+  print("Valor de A: $A");
+  print("Valor de B: $B");
+}
