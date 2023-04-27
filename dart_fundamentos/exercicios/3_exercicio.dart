@@ -22,8 +22,8 @@ void main(){
     print("Não foi possível obter o valor da base");
   }
 
-  double area = base * altura;
+  // double area = base * altura;
 
-  print("A área do retângulo é $area.");
+  // print("A área do retângulo é $area.");
 
 }
